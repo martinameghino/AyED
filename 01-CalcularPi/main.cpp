@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    float Pi = 0.0; // 
+    float Pi = 0.0; // hola
     float precision = 0.0000000001;  // Precisión de ejemplo aproximada
     float PD = 3.141592f; // Prec Deseada, los digitos necesarios, y de ultima, relleno con varios 0
     float denom = 1.0f;
